@@ -1,13 +1,15 @@
 package authentication;
 
-import io.restassured.RestAssured;
+import io.restassured.RestAssured.*;
 import org.hamcrest.Matchers;
 import org.testng.annotations.Test;
+
+import static io.restassured.RestAssured.given;
 
 public class basic_auth {
     @Test
     public void basicAuthentication(){
-        RestAssured.given().auth().basic("postman", "password").
+        given().auth().basic("postman", "password").
                 when().
                 get("https://postman-echo.com/basic-auth").
                 then().
