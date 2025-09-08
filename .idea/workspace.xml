@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0919d9ce-abf9-4c09-90c3-cac2a4ab9f40" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tzdaniel9&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:tzdaniel9/Rest-Assured.git&quot;,
+    &quot;accountId&quot;: &quot;902ae662-91b8-430c-8981-086d18b36127&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="326TJKSrEzD0VmrX51XD9Gm4tgy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.RestAssured [clean].executor": "Run",
+    "Maven.RestAssured [compile].executor": "Run",
+    "Maven.RestAssured [install].executor": "Run",
+    "Maven.RestAssured [test].executor": "Run",
+    "Maven.RestAssured [validate].executor": "Run",
+    "Maven.Unknown [clean].executor": "Run",
+    "Maven.Unknown [install].executor": "Run",
+    "Maven.Unknown [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/dany/IdeaProjects/tests/Rest Assured/suite.xml.executor": "Run",
+    "TestNG./Users/dany/Library/Caches/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml.executor": "Run",
+    "TestNG.AccountCreationTests.createAccountTest.executor": "Debug",
+    "TestNG.ForgotPasswordTest.forgotPasswordTest.executor": "Run",
+    "TestNG.GetProfileRequestTest.getProfileInfoTest.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.LoginTests.login.executor": "Run",
+    "TestNG.UpdateProfileTest.updateProfileTest.executor": "Run",
+    "TestNG.basic_auth.PreEmptiveAuthentication.executor": "Run",
+    "TestNG.basic_auth.basicAuthentication.executor": "Run",
+    "TestNG.basic_auth.executor": "Run",
+    "TestNG.digest_auth.digestAuthentication.executor": "Run",
+    "TestNG.digest_auth.executor": "Run",
+    "TestNG.loginTests (1).executor": "Run",
+    "TestNG.loginTests.executor": "Run",
+    "TestNG.loginTests.login.executor": "Run",
+    "TestNG.loginTests.loginServiceTest (1).executor": "Run",
+    "TestNG.loginTests.loginServiceTest (2).executor": "Run",
+    "TestNG.loginTests.loginServiceTest.executor": "Run",
+    "TestNG.pre_emptive_authentication.PreEmptiveAuthentication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="authentication" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/dany/IdeaProjects/tests/Rest Assured/suite.xml">
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest Assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.api.tests.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest Assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.api.tests.LoginTests" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.loginServiceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest Assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.api.tests.LoginTests" />
+      <option name="METHOD_NAME" value="loginServiceTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateProfileTest.updateProfileTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest Assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.api.tests.UpdateProfileTest" />
+      <option name="METHOD_NAME" value="updateProfileTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dany/IdeaProjects/tests/Rest Assured/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest Assured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/dany/IdeaProjects/tests/Rest Assured/suite.xml" />
+        <item itemvalue="TestNG.LoginTests" />
+        <item itemvalue="TestNG.LoginTests.login" />
+        <item itemvalue="TestNG.LoginTests.loginServiceTest" />
+        <item itemvalue="TestNG.UpdateProfileTest.updateProfileTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0919d9ce-abf9-4c09-90c3-cac2a4ab9f40" name="Changes" comment="" />
+      <created>1756739950614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756739950614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Rest_Assured$loginTests_login.ic" NAME="loginTests.login Coverage Results" MODIFIED="1756808077412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>apiTests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
