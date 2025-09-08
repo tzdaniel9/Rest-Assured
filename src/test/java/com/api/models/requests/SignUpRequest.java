@@ -8,7 +8,7 @@ public class SignUpRequest {
     private String lastName;
     private String mobileNumber;
 
-    public SignUpRequest(String username, String password, String email, String firstName, String lastName, String mobileNumber) {
+    private SignUpRequest(String username, String password, String email, String firstName, String lastName, String mobileNumber) {
         this.username = username;
         this.password = password;
         this.email = email;
