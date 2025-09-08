@@ -73,7 +73,7 @@
     "TestNG.loginTests.loginServiceTest (2).executor": "Run",
     "TestNG.loginTests.loginServiceTest.executor": "Run",
     "TestNG.pre_emptive_authentication.PreEmptiveAuthentication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
