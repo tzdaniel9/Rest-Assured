@@ -155,3 +155,45 @@ Connection=keep-alive
 22:20:26.085 [main] INFO  com.api.listeners.TestListeners - Test Suite Finished
 22:28:07.775 [main] INFO  com.api.listeners.TestListeners - Test Suite Started
 22:28:07.780 [main] INFO  com.api.listeners.TestListeners - Test Suite Finished
+23:00:51.397 [main] INFO  com.api.listeners.TestListeners - Test Suite Started
+23:00:51.423 [main] INFO  com.api.listeners.TestListeners - Started login
+23:00:51.424 [main] INFO  com.api.listeners.TestListeners - Description verify if login api is working
+23:00:53.368 [main] INFO  com.api.listeners.TestListeners - Passed login
+23:00:53.369 [main] INFO  com.api.listeners.TestListeners - Started loginServiceTest
+23:00:53.369 [main] INFO  com.api.listeners.TestListeners - Description verify if login api is working
+23:00:53.518 [main] INFO  com.api.filters.LoggingFilter - BASE URI :http://64.227.160.186:8080
+23:00:53.518 [main] INFO  com.api.filters.LoggingFilter - BASE Header :Accept=*/*
+Content-Type=application/json
+23:00:53.519 [main] INFO  com.api.filters.LoggingFilter - BASE Payload :{"username":"muso1234","password":"muso1234"}
+23:00:54.417 [main] INFO  com.api.filters.LoggingFilter - Status Code :200
+23:00:54.418 [main] INFO  com.api.filters.LoggingFilter - Response Header :Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Mon, 08 Sep 2025 21:00:54 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+23:00:54.421 [main] INFO  com.api.filters.LoggingFilter - Response Body :{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtdXNvMTIzNCIsImlhdCI6MTc1NzM2NTI1NCwiZXhwIjoxNzU3MzY4ODU0fQ.LN3WnjfW6E4qJJxF2roVpaGqQxADIoyNp99211oHI7w",
+    "type": "Bearer",
+    "id": 2587,
+    "username": "muso1234",
+    "email": "t9daniel@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+23:00:54.462 [main] INFO  com.api.listeners.TestListeners - Passed loginServiceTest
+23:00:54.463 [main] INFO  com.api.listeners.TestListeners - Test Suite Finished
