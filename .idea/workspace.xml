@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0919d9ce-abf9-4c09-90c3-cac2a4ab9f40" name="Changes" comment="" />
+    <list default="true" id="0919d9ce-abf9-4c09-90c3-cac2a4ab9f40" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/authentication/basic_auth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/authentication/basic_auth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/authentication/digest_auth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/authentication/digest_auth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/authentication/pre_emptive_authentication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/authentication/pre_emptive_authentication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/base/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/base/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/base/BaseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/base/BaseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/base/UserProfileManagementService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/base/UserProfileManagementService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/filters/LoggingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/filters/LoggingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/listeners/TestListeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/listeners/TestListeners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/ProfileRequest$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/ProfileRequest$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/ProfileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/ProfileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/SignUpRequest$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/SignUpRequest$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/SignUpRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/models/requests/SignUpRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/models/response/LoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/models/response/LoginResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/models/response/UserProfileResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/models/response/UserProfileResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/tests/AccountCreationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/tests/AccountCreationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/tests/ForgotPasswordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/tests/ForgotPasswordTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/tests/GetProfileRequestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/tests/GetProfileRequestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/tests/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/tests/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/tests/UpdateProfileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/tests/UpdateProfileTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +86,9 @@
     "TestNG.AccountCreationTests.createAccountTest.executor": "Debug",
     "TestNG.ForgotPasswordTest.forgotPasswordTest.executor": "Run",
     "TestNG.GetProfileRequestTest.getProfileInfoTest.executor": "Run",
+    "TestNG.LoginTests (1).executor": "Run",
     "TestNG.LoginTests.executor": "Run",
+    "TestNG.LoginTests.login (1).executor": "Run",
     "TestNG.LoginTests.login.executor": "Run",
     "TestNG.UpdateProfileTest.updateProfileTest.executor": "Run",
     "TestNG.basic_auth.PreEmptiveAuthentication.executor": "Run",
